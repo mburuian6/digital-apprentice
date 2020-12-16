@@ -34,6 +34,7 @@ def process_data(url='../input/water_points.json'):
         'community_ranking': community_ranking
     }
     
+    print('results:')
     print(results)
 
 if __name__ == '__main__':
